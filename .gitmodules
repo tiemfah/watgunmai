@@ -1,0 +1,9 @@
+[submodule "watgunmai-scrapper"]
+	path = watgunmai-scrapper
+	url = https://github.com/tiemfah/watgunmai-scrapper
+[submodule "watgunmai-frontend"]
+	path = watgunmai-frontend
+	url = https://github.com/tiemfah/watgunmai-frontend
+[submodule "watgunmai-backend"]
+	path = watgunmai-backend
+	url = https://github.com/tiemfah/watgunmai-backend
