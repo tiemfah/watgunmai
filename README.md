@@ -5,6 +5,10 @@
  `❯ git clone --recurse-submodules https://github.com/tiemfah/watgunmai.git`  
  ---
  ### Scrapper module setup
+ * create and run env  
+ `❯ python3 -m venv env`  
+ * install requirements 
+ `❯ pip3 install -r requirements.txt`  
  ---
  ### Frontend module setup
  ---
