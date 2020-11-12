@@ -6,8 +6,8 @@
  ---
  ### Scrapper module setup
  * create and run env  
- `❯ python3 -m venv env`  
- * install requirements 
+ `❯ python3 -m venv env`
+ * install requirements  
  `❯ pip3 install -r requirements.txt`  
  ---
  ### Frontend module setup
