@@ -9,6 +9,8 @@
  `❯ python3 -m venv env`
  * install requirements  
  `❯ pip3 install -r requirements.txt`  
+ * run scrapper  
+ `❯ python3 webscrap.py`  
  ---
  ### Frontend module setup
  ---
@@ -17,8 +19,8 @@
  `❯ cd watgunmai-backend && npm i`  
  * read and finish env.example instruction  
  `❯ cat env.example`  
- * start project  
- `❯ node index.js`
+ * run project  
+ `❯ npm start`
 ---
 
 ### TODO
