@@ -13,6 +13,8 @@
  `❯ python3 webscrap.py`  
  ---
  ### Frontend module setup
+ * run project  
+ `❯ npm start`
  ---
  ### Backend module setup
  * install backend dependencies  
