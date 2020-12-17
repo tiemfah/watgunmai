@@ -25,14 +25,9 @@
  `❯ npm start`
 ---
 
-### TODO
-- [ ] dockerize modules
-    - [ ] frontend
-    - [ ] backend
-    - [ ] scrapper?
-- [ ] write test
-    - [ ] frontend
-    - [ ] backend
-    - [ ] scrapper
-- [ ] setup jenkins
-- [ ] setup scrum board
+### Project deployment
+You can use any docker supported hosting service for deployment we have included dockerfile for creating docker images.
+
+### Test and CI/CD
+Backend API testing can be found in Backend project we use postman collection for testing.
+Setting up Jeckins can be use with Node environment then include postman collection for Continuous Integration and select hosting service of your choice for deployment
