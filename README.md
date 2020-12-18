@@ -1,5 +1,6 @@
 
 
+
 # Wat Gun Mai
 
 **Wat Gun Mai** is a web application about reviewing temples around the user. The web application comes with these amazing features such as Searching for your temples and viewing their UV, temperatures, reviews on that specifics temple, and the nearest five temples around your temple.
@@ -55,9 +56,13 @@ Project setup
 ### Project deployment guide
 You can use any docker supported hosting service for deployment we have included dockerfile for creating docker images.
 
+---
+
 ### Project CI/CD setup guide
 Backend API testing can be found in Backend project we use postman collection for testing.
 Setting up Jeckins can be use with Node environment then include postman collection for Continuous Integration and select hosting service of your choice for deployment
+
+---
 
 ### Project specification and design document
 
@@ -86,4 +91,5 @@ Setting up Jeckins can be use with Node environment then include postman collect
 		 - [Temple](https://github.com/tiemfah/watgunmai-backend/blob/main/models/temple.js)
 		 - [User](https://github.com/tiemfah/watgunmai-backend/blob/main/models/user.js)
 		 - [Review](https://github.com/tiemfah/watgunmai-backend/blob/main/models/review.js)
-  
+ 
+ ---
