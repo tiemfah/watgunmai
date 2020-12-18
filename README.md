@@ -50,7 +50,7 @@ Project setup
 ### Project requirements and tools
  - [Frontend project requirement](https://github.com/tiemfah/watgunmai-frontend/blob/main/package.json)
  - [Backend project requirement](https://github.com/tiemfah/watgunmai-backend/blob/main/package.json)
- - [Frontend project requirement](https://github.com/tiemfah/watgunmai-scrapper/blob/main/requirements.txt)
+ - [Scrapper project requirement](https://github.com/tiemfah/watgunmai-scrapper/blob/main/requirements.txt)
 ---
 
 ### Project deployment guide
