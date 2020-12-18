@@ -12,7 +12,7 @@ Team Members
 |--------------|------------------------------|-----------------------------------------------|
 | 6110545473   | Chanachida Fuachai           | [llleyelll](https://github.com/llleyelll)     |
 | 6110545643   | Sivanat Subpaisarn           | [tiemfah](https://github.com/tiemfah)         |
-| 6110545660   | Sirikorn Songsaengthong      | [Sirikonss](https://github.com/Sirikonss)     |
+| 6110545660   | Sirikon Songsaengthong      | [Sirikonss](https://github.com/Sirikonss)     |
 | 6110545783   | Phantakarn Kiatpaisarnsopon  | [wodwine](https://github.com/wodwine)         |
 | 6110545678   | Arisa Pangpeng               | [kidstylex](https://github.com/kidstylex)         |
 
