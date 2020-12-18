@@ -27,9 +27,7 @@ Project setup
  * install requirements  
  `❯ pip3 install -r requirements.txt`  
  * run scrapper  
- `❯ python3 webscrap.py` 
- * run nearby temples  
- `❯ python3 nearby_temple.py` 
+ `❯ python3 webscrap.py`  
  ---
  ### Backend module setup
  * install backend dependencies  
