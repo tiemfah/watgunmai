@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  frontend:
+    build: watgunmai-frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+  backend:
+    build: watgunmai-backend
+    ports: 
+      - "5000:5000"
